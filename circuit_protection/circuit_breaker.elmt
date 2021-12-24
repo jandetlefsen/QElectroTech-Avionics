@@ -1,0 +1,21 @@
+<definition link_type="simple" version="0.80" height="30" width="40" type="element" hotspot_y="15" hotspot_x="19">
+    <uuid uuid="{24c001af-3afd-4df6-980b-12085077f76b}"/>
+    <names>
+        <name lang="en">Circuit Breaker</name>
+    </names>
+    <elementInformations/>
+    <informations></informations>
+    <description>
+        <rect x="-9" height="18" width="18" rx="0" ry="0" y="-9" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="-7" diameter="2" y="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <circle x="5" diameter="2" y="-1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="0" end2="none" length2="1.5" x1="-7" length1="1.5" x2="-8" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="0" end2="none" length2="1.5" x1="7" length1="1.5" x2="9" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <arc x="-5" height="7" width="10" start="15.5" angle="149.813" y="-6" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
+        <dynamic_text x="-25" frame="false" font="Sans Serif,9,-1,5,0,0,0,0,0,0,normal" text_from="UserText" Halignment="AlignLeft" Valignment="AlignTop" z="7" y="-1" rotation="0" uuid="{c5a67b79-5b02-4550-8379-14c25999a03d}" text_width="-1">
+            <text>_</text>
+        </dynamic_text>
+        <terminal x="14" orientation="e" y="0" uuid="{45cd3c5b-2309-4d7a-96b9-a6bc90006a38}" name=""/>
+        <terminal x="-14" orientation="w" y="0" uuid="{6636d16e-bf1f-40e4-982e-a13d2052eda7}" name=""/>
+    </description>
+</definition>
