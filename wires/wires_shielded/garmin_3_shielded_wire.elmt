@@ -1,5 +1,5 @@
 <definition link_type="simple" version="0.80" height="50" width="30" type="element" hotspot_y="17" hotspot_x="14">
-    <uuid uuid="{a68bb19f-3138-4fa2-94be-07ca7f94243f}"/>
+    <uuid uuid="{cb3ff350-61e5-418b-b1dc-cf9ab383b78c}"/>
     <names>
         <name lang="en">3 Shielded Wire Garmin</name>
     </names>
@@ -19,31 +19,31 @@
     <informations>Author: Jan Detlefsen
 License: Apache</informations>
     <description>
-        <line end1="none" y1="-4" end2="none" length2="1.5" x1="-4" length1="1.5" x2="4" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="-5" end2="none" length2="1.5" x1="-4" length1="1.5" x2="4" y2="-5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <dynamic_text x="14" frame="false" font="Sans Serif,9,-1,5,50,0,0,0,0,0" text_from="ElementInfo" Halignment="AlignLeft" Valignment="AlignTop" z="2" y="-23" rotation="0" uuid="{c63106ea-1b6a-4e20-bb5e-f3bdf7b8944c}" text_width="-1">
             <text></text>
             <info_name>label</info_name>
         </dynamic_text>
-        <line end1="none" y1="4" end2="none" length2="1.5" x1="-4" length1="1.5" x2="4" y2="4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="5" end2="none" length2="1.5" x1="-4" length1="1.5" x2="4" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <line end1="none" y1="0" end2="none" length2="1.5" x1="-4" length1="1.5" x2="4" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <arc x="-6" height="12" width="12" start="180" angle="90" y="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
         <arc x="-6" height="12" width="12" start="270" angle="90" y="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
         <arc x="-6" height="12" width="12" start="90" angle="90" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
         <arc x="-6" height="12" width="12" start="0" angle="90" y="-12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="true"/>
         <line end1="none" y1="16" end2="none" length2="1.5" x1="0" length1="1.5" x2="0" y2="12" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
-        <line end1="none" y1="-5" end2="none" length2="1.5" x1="-6" length1="1.5" x2="-6" y2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="-6" end2="none" length2="1.5" x1="-6" length1="1.5" x2="-6" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <line end1="none" y1="-1" end2="none" length2="1.5" x1="-6" length1="1.5" x2="-6" y2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
-        <line end1="none" y1="3" end2="none" length2="1.5" x1="-6" length1="1.5" x2="-6" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
-        <line end1="none" y1="-5" end2="none" length2="1.5" x1="6" length1="1.5" x2="6" y2="-3" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="4" end2="none" length2="1.5" x1="-6" length1="1.5" x2="-6" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="-5" end2="none" length2="1.5" x1="6" length1="1.5" x2="6" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <line end1="none" y1="-1" end2="none" length2="1.5" x1="6" length1="1.5" x2="6" y2="1" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
-        <line end1="none" y1="3" end2="none" length2="1.5" x1="6" length1="1.5" x2="6" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
+        <line end1="none" y1="4" end2="none" length2="1.5" x1="6" length1="1.5" x2="6" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <polygon x4="-6" y1="16" y4="16" y3="27" x1="0" x2="6" y2="16" x3="0" style="line-style:normal;line-weight:normal;filling:none;color:black" antialias="false"/>
         <text x="-2" font="Sans Serif,6,-1,5,50,0,0,0,0,0" text="S" y="22" rotation="0" color="#000000"/>
-        <terminal x="-9" orientation="w" y="-4" uuid="{0eab2d1a-c039-401b-b716-abc52017d0c7}" name=""/>
-        <terminal x="9" orientation="e" y="0" uuid="{f8d38c6e-3df9-4447-a8c2-900e887d072f}" name=""/>
-        <terminal x="-9" orientation="w" y="4" uuid="{be4d0720-f0be-47d1-be8c-2ab66c4a87d6}" name=""/>
-        <terminal x="9" orientation="e" y="-4" uuid="{981270df-bf42-4d62-9449-1e9eed6606ac}" name=""/>
-        <terminal x="9" orientation="e" y="4" uuid="{6adab83a-dd84-40c4-bc36-1af255ed8c61}" name=""/>
         <terminal x="-9" orientation="w" y="0" uuid="{6af953ac-089a-4c44-a1a1-75dc2554d807}" name=""/>
+        <terminal x="9" orientation="e" y="5" uuid="{6adab83a-dd84-40c4-bc36-1af255ed8c61}" name=""/>
+        <terminal x="9" orientation="e" y="-5" uuid="{981270df-bf42-4d62-9449-1e9eed6606ac}" name=""/>
+        <terminal x="-9" orientation="w" y="5" uuid="{be4d0720-f0be-47d1-be8c-2ab66c4a87d6}" name=""/>
+        <terminal x="-9" orientation="w" y="-5" uuid="{0eab2d1a-c039-401b-b716-abc52017d0c7}" name=""/>
+        <terminal x="9" orientation="e" y="0" uuid="{f8d38c6e-3df9-4447-a8c2-900e887d072f}" name=""/>
     </description>
 </definition>
